@@ -98,4 +98,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-This README provides a comprehensive overview of your Library Management System project, including its features, class descriptions, usage instructions, and more. Adjust the details as necessary to fit your specific project setup and requirements.
+Video explanation of code: https://drive.google.com/file/d/1JiAhteqsGgR8EgHSyVcC1oLHBBKmPqDY/view?usp=sharing
