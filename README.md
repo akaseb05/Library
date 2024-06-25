@@ -1,6 +1,3 @@
-Sure, here's a README description for your GitHub repository that explains the purpose and functionality of the code:
-
----
 
 # Library Management System
 
