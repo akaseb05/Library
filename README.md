@@ -1,5 +1,5 @@
 
-# Library Management System
+# Online Library Management System
 
 This C++ project implements a basic Library Management System. The system provides functionalities for managing books and students in a library, including adding, modifying, searching, listing, issuing, and returning books. Additionally, the system includes functionality for managing rewards.
 
