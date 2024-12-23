@@ -55,20 +55,6 @@ This class handles all reward-related operations:
 - Getter and setter methods for reward attributes.
 - `displayReward()`: Display details of a specific reward.
 
-## How to Use
-
-1. **Compile the Code**: Use a C++ compiler to compile the code. For example:
-   ```bash
-   g++ -o library_management library_management.cpp
-   ```
-
-2. **Run the Program**: Execute the compiled program:
-   ```bash
-   ./library_management
-   ```
-
-3. **Follow the Menu**: The program will present a menu with various options for managing books, students, and rewards. Choose the appropriate option and follow the prompts.
-
 ## Dependencies
 
 This project uses standard C++ libraries including:
